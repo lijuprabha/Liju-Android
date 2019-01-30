@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">User Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_already_exists">This email already exists</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_register">Registeration</string>
+    <string name="rgistration_suceesfully">Rgistration suceesfully..please login</string>
+    <string name="login_error_msg">Invalid email / password</string>
+    <string name="warning">Do you want to change geographic point?</string>
+    <string name="instructions">Tap to select your geofence area.\nSelect the menu option to change the radius and enter the wifi name</string>
+</resources>
